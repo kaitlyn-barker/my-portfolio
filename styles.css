@@ -523,34 +523,6 @@ section {
     margin-bottom: 2rem;
 }
 
-.about-stats {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1rem;
-}
-
-.stat-box {
-    background-color: var(--white);
-    padding: 1.5rem;
-    border-radius: 12px;
-    text-align: center;
-    box-shadow: 0 3px 15px rgba(0,0,0,0.08);
-}
-
-.stat-number {
-    display: block;
-    font-family: var(--font-headline);
-    font-size: 2rem;
-    font-weight: 700;
-    color: var(--primary);
-    margin-bottom: 0.5rem;
-}
-
-.stat-label {
-    display: block;
-    font-size: 0.9rem;
-    color: var(--text-light);
-}
 
 .about-text h2 {
     font-size: 2.5rem;
