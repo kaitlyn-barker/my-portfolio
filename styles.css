@@ -510,7 +510,7 @@ section {
 }
 
 .profile-placeholder {
-    width: 100%;
+    width: 85%;
     aspect-ratio: 1;
     background: linear-gradient(135deg, var(--frosted-mint), var(--white));
     border-radius: 16px;
